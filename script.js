@@ -4,7 +4,7 @@ let ljson = [
     ["Robo Machine", "machine006", 0, 0, 2, 0.0, 0.5, 0.0, 0, 0, 0, 0, 0, 0],
 ]
 
-var clutter = `<thead>
+let clutter = `<thead>
             <tr>
                 <th rowspan="2">MACHINE NAME</th>
                 <th rowspan="2">MACHONE CODE</th>
